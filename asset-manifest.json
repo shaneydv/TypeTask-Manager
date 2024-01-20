@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TypeTask-Manager/static/css/main.34b5269a.css",
+    "main.js": "/TypeTask-Manager/static/js/main.876ccc20.js",
+    "index.html": "/TypeTask-Manager/index.html",
+    "main.34b5269a.css.map": "/TypeTask-Manager/static/css/main.34b5269a.css.map",
+    "main.876ccc20.js.map": "/TypeTask-Manager/static/js/main.876ccc20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34b5269a.css",
+    "static/js/main.876ccc20.js"
+  ]
+}
